@@ -9,6 +9,7 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 
+	// hello "github.com/jlucktay/hello-micro/example/service/proto/hello"
 	hello "github.com/micro/examples/grpc/gateway/proto/hello"
 )
 

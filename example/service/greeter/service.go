@@ -4,6 +4,7 @@ import (
 	"log"
 	"time"
 
+	// hello "github.com/jlucktay/hello-micro/example/service/proto/hello"
 	hello "github.com/micro/examples/greeter/srv/proto/hello"
 	"github.com/micro/go-grpc"
 	"github.com/micro/go-micro"
